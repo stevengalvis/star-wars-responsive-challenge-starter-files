@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    vertical-align: baseline;
+    padding: 0;
+}
+
+body{
+  font-family: 'Roboto', helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+
+}
+
+.image{
+    width: 100%;
+    height: 300px;
+    padding: 0;
+}
+figure{
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+figcaption{
+padding-bottom: 20px;
+}
+
+
+main .row{
+    margin-bottom: 20px;
+}
+
+.col-4{
+    border: 1px solid grey;
+
+
+}
+
+.name{
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+/*
+.middle{
+    padding-left: 5px;
+    padding-right: 5px;
+}*/
+
+header{
+    margin-top: 0;
+    background-color: yellow;
+    width: 100%;
+    height: auto;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+h1{
+    margin-top: 0;
+
+}
+
+figure, .image{
+    padding: 0;
+}
+
+.description{
+    padding-bottom: 20px;
+}
